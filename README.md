@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kwon Jeong Hwan</h1>
-<h3 align="center">개발자 꿈나무</h3>
+<h3 align="center">개발자</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
